@@ -1,1 +1,1 @@
-# flam_assessment
+\left(t\cos\left(0.523595372205\right)-e^{0.03000055\left|t\right|}\sin\left(0.3t\right)\sin\left(0.523595372205\right)+54.998766,42+t\sin\left(0.523595372205\right)+e^{0.03000055\left|t\right|}\sin\left(0.3t\right)\cos\left(0.523595372205\right)\right)
